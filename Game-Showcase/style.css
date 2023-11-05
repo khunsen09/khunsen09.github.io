@@ -1,0 +1,208 @@
+body {
+    background-image: url('https://preview.redd.it/0zcciy0sq8h51.png?auto=webp&s=524f252c2305fadcbc7c64a70ce10dbdf7a0324e');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: color;
+    margin: 0;
+}
+.header {
+    color: white;
+    margin-left: 30%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black ;
+    margin-right: 30%;
+    text-align: center;
+    padding: 20px;
+}
+ul, li, a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    color: aliceblue;
+}
+nav {
+    text-align: right;
+    font-size: 30px;
+    font-weight: 500; 
+    padding: 30px; 
+    background-color: rgb(0, 0, 0);
+}
+.homepage {
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link {
+    text-decoration: none;
+}
+.link:hover {
+    box-sizing: border-box;
+    color: blue;
+}
+iframe {
+    float: right;
+    width: 30%;
+    margin: 20px 500px 0px 50px;
+    height: 300px;
+}
+.persona {
+    display: flex;
+}
+.persona5 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    width: 30%;
+    margin: 30px 50px 0px 100px;
+    text-align: justify;
+    font-weight: 1200px;
+}
+.title1 {
+    color: white;
+    margin: 50px 0px 0px 110px;
+    font-weight: 900;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    width: 550px;
+}
+.gamedescription {
+    margin-left: 120px;
+    color: white;
+    background-color: black;
+    width: 250px;
+}
+.para2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin: 10px 150px 0px 120px;
+    text-align: justify;
+    font-size: 20px;
+}
+.iconmain {
+    height: 55px;
+    float: left;
+    margin: 0px;
+}
+.personaimage {
+    display: flex;
+    margin: 50px 0px 50px 160px;
+    height: 200px;
+}
+.icon1 {    
+    width: 200px;
+    border-radius: 15px 10px 15px 10px;
+}
+.icon2 {
+    margin: 5px 0px 0px 450px;
+    border-radius: 15px 10px 15px 10px;
+}
+.icon3{ 
+    margin: 5px 10px 0px 400px; 
+    border-radius: 15px 10px 15px 10px;
+}
+.iconname {
+    margin: 10px 10px 15px 210px;
+    display: flex;
+    color: white;
+    text-align: center;
+}
+.iconname1 {
+    margin-top: 10px;
+    margin-right: 580px;
+}
+.iconname2 {
+    margin-top: 10px; 
+    margin-right: 490px;
+}
+.iconname3 {
+    margin-top: 10px;
+}
+.personaimage2 {
+    display: flex;
+    margin-left: 150px;
+    height: 210px;
+    margin-top: 50px;
+}
+.icon4{
+    border-radius: 15px 10px 15px 10px;
+}
+.icon5 {
+   margin-left: 440px; 
+   border-radius: 15px 10px 15px 10px;
+}
+.icon6 {
+    margin-left: 380px;
+    border-radius: 15px 10px 15px 10px;
+}
+.iconname5 {
+    margin-left: 590px;
+}
+.iconname6 {
+    margin-left: 510px;
+}
+.gamelink {
+    display: flex;
+}
+.coverphoto{
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.logo1 {
+    height: 100px;
+    margin-top: 90px;
+    margin-right: 300px;
+}
+.logo2 {
+    height: 100px;
+    margin-top: 50px;
+}
+.logo3 {
+    height: 100px;
+    margin-top: 50px;
+}
+.headingimage {
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.personaimage3 {
+    display: flex;
+    margin: 50px 0px 0px 150px;
+}
+.icon7 {
+    height: 210px;
+}
+.icon8 {
+    height: 210px;
+    margin-left: 440px;
+}
+.icon9 {
+    height: 210px;
+    margin-left: 370px; 
+    float: right;
+}
+.iconnamev2 {
+    display: flex;
+    margin: 15px 0px 0px 190px;
+    color: white;
+}
+/*.iconname7 {
+     
+}*/
+.iconname8 {
+    margin-left: 540px;
+}
+.iconname9 {
+    margin-left: 500px;
+}
+.header:hover {
+    color: red;
+}
+.backgroundimage {
+    background-color: black;
+}

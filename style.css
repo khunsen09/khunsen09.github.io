@@ -1,0 +1,28 @@
+header {
+    font-size: 15px;
+    font-weight: bolder;
+}
+.profile {
+   background-color: 	rgb(22, 24, 29);
+}
+.html {
+    background-image: url(Pictures/html.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.css {
+    background-image: url("Pictures/css.png");
+    background-size: cover;
+    background-position: center;
+}
+.javascript {
+    background-image: url(Pictures/javascript.png);
+    background-size: cover;
+}
+li:hover {
+    background-color: black;
+}
+  a {
+    text-decoration: none;
+  }
+
